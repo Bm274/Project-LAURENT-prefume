@@ -1,0 +1,33 @@
+{
+  "gitSyncId": "699de3d0af08ee33da8b1f4d_af581a6b-30e0-407f-a08f-21189734b009",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 380,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 1292,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 4896,
+          "snapColumns": 64,
+          "snapRows": 124,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 94,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Home Page",
+    "slug": "home-page"
+  }
+}
