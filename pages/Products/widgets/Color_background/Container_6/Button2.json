@@ -1,0 +1,42 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 19,
+  "boxShadow": "none",
+  "buttonColor": "#f8f1f8",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "2z4v5axmoz",
+  "leftColumn": 9,
+  "minWidth": 120,
+  "mobileBottomRow": 19,
+  "mobileLeftColumn": 26,
+  "mobileRightColumn": 42,
+  "mobileTopRow": 15,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 2.1266021728515625,
+  "parentId": "3qxxckhdh7",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 57,
+  "text": "Add to cart",
+  "topRow": 15,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "w4dbpy0d8v",
+  "widgetName": "Button2"
+}

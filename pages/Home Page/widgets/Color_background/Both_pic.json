@@ -1,0 +1,39 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 139,
+  "boxShadow": "none",
+  "defaultImage": "https://raw.githubusercontent.com/Bm274/Project-LAURENT-prefume/refs/heads/main/Both%20pic.png",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "jkdu83a810",
+  "leftColumn": 42,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 129,
+  "mobileLeftColumn": 42,
+  "mobileRightColumn": 54,
+  "mobileTopRow": 117,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "parentColumnSpace": 17.625,
+  "parentId": "pfkaclj6th",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 54,
+  "topRow": 111,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "2d8qpmb5dj",
+  "widgetName": "Both_pic"
+}

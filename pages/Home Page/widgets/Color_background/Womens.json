@@ -1,0 +1,49 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 109,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "Rubik",
+  "fontSize": "1.25rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "iftmrobfl5",
+  "leftColumn": 4,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 112,
+  "mobileLeftColumn": 4,
+  "mobileRightColumn": 20,
+  "mobileTopRow": 108,
+  "needsErrorInfo": false,
+  "originalBottomRow": 109,
+  "originalTopRow": 105,
+  "overflow": "NONE",
+  "parentColumnSpace": 17.625,
+  "parentId": "pfkaclj6th",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 20,
+  "shouldTruncate": false,
+  "text": "Women's",
+  "textAlign": "CENTER",
+  "textColor": "#380c45",
+  "topRow": 105,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "pugh03o7tw",
+  "widgetName": "Womens"
+}

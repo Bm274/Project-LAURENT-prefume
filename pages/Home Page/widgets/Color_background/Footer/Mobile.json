@@ -1,0 +1,37 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 22,
+  "boxShadow": "none",
+  "buttonColor": "#f8f1f8",
+  "buttonVariant": "TERTIARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "iconName": "mobile-phone",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "futtrx5utj",
+  "leftColumn": 36,
+  "minWidth": 50,
+  "mobileBottomRow": 19,
+  "mobileLeftColumn": 37,
+  "mobileRightColumn": 41,
+  "mobileTopRow": 15,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 17.3125,
+  "parentId": "7k30cjvd30",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 39,
+  "topRow": 18,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "0w8677xrfr",
+  "widgetName": "Mobile"
+}

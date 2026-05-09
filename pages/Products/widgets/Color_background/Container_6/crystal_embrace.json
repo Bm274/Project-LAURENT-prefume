@@ -1,0 +1,39 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 7,
+  "boxShadow": "none",
+  "defaultImage": "https://raw.githubusercontent.com/Bm274/Project-LAURENT-prefume/refs/heads/main/prefume%206.png",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "j5762nei72",
+  "leftColumn": 1,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 14,
+  "mobileLeftColumn": 36,
+  "mobileRightColumn": 48,
+  "mobileTopRow": 2,
+  "needsErrorInfo": false,
+  "objectFit": "contain",
+  "parentColumnSpace": 2.087188720703125,
+  "parentId": "3qxxckhdh7",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 63,
+  "topRow": 0,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "kgqdscyzbs",
+  "widgetName": "crystal_embrace"
+}

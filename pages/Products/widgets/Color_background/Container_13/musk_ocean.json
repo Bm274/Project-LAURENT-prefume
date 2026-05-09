@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 14,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "0.875rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "5jbmsiuxkk",
+  "leftColumn": 8,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 15,
+  "mobileLeftColumn": 37,
+  "mobileRightColumn": 53,
+  "mobileTopRow": 11,
+  "needsErrorInfo": false,
+  "originalBottomRow": 14,
+  "originalTopRow": 9,
+  "overflow": "NONE",
+  "parentColumnSpace": 2.1266021728515625,
+  "parentId": "zdna9cqg6y",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 57,
+  "shouldTruncate": false,
+  "text": " Musk Ocean\n      500 SAR",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 9,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "6k5zxyycl5",
+  "widgetName": "musk_ocean"
+}

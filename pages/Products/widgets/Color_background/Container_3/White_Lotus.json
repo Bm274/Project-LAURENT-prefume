@@ -1,0 +1,50 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 14,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "0.875rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "pnau9skp7p",
+  "leftColumn": 6,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 31,
+  "mobileLeftColumn": 37,
+  "mobileRightColumn": 53,
+  "mobileTopRow": 27,
+  "needsErrorInfo": false,
+  "overflow": "NONE",
+  "parentColumnSpace": 17.064453125,
+  "parentId": "0owzfpcp7q",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 52,
+  "shouldTruncate": false,
+  "text": "Rose Garden\n    300 SAR",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 10,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "6vg321n6sw",
+  "widgetName": "White_Lotus"
+}

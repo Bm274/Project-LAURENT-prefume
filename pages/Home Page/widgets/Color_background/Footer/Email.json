@@ -1,0 +1,50 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 18,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "BOLD",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "iftmrobfl5",
+  "leftColumn": 37,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 30,
+  "mobileLeftColumn": 26,
+  "mobileRightColumn": 42,
+  "mobileTopRow": 26,
+  "needsErrorInfo": false,
+  "overflow": "NONE",
+  "parentColumnSpace": 17.3125,
+  "parentId": "7k30cjvd30",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 47,
+  "shouldTruncate": false,
+  "text": "berst274@gmail.com",
+  "textAlign": "LEFT",
+  "textColor": "#f8f1f8",
+  "topRow": 14,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "u39qfvmbbc",
+  "widgetName": "Email"
+}

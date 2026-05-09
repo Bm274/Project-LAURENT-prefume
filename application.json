@@ -29,15 +29,15 @@
       "isDefault": false
     },
     {
-      "id": "Purchase",
-      "isDefault": false
-    },
-    {
       "id": "Shopping Cart",
       "isDefault": false
     },
     {
-      "id": "About Us",
+      "id": "Purchase",
+      "isDefault": false
+    },
+    {
+      "id": "About us",
       "isDefault": false
     }
   ],

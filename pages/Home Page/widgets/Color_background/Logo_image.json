@@ -1,0 +1,39 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 9,
+  "boxShadow": "none",
+  "defaultImage": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "https://raw.githubusercontent.com/Bm274/Project-LAURENT-prefume/refs/heads/main/Laurent%20last%20file.1.png",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "z7w8v7jm8a",
+  "leftColumn": 0,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 24,
+  "mobileLeftColumn": 3,
+  "mobileRightColumn": 15,
+  "mobileTopRow": 12,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "parentColumnSpace": 17.625,
+  "parentId": "pfkaclj6th",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 14,
+  "topRow": 0,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "300xu88iay",
+  "widgetName": "Logo_image"
+}

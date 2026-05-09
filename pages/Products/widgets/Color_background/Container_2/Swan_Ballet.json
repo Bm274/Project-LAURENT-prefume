@@ -1,0 +1,39 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 9,
+  "boxShadow": "none",
+  "defaultImage": "https://raw.githubusercontent.com/Bm274/Project-LAURENT-prefume/refs/heads/main/Swan%20Ballet%201.png",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "j5762nei72",
+  "leftColumn": 1,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 17,
+  "mobileLeftColumn": 34,
+  "mobileRightColumn": 46,
+  "mobileTopRow": 5,
+  "needsErrorInfo": false,
+  "objectFit": "contain",
+  "parentColumnSpace": 2.087188720703125,
+  "parentId": "fg48pi4f1y",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 63,
+  "topRow": 0,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "bz5l04zhmy",
+  "widgetName": "Swan_Ballet"
+}

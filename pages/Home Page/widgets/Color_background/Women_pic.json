@@ -1,9 +1,9 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 22,
+  "bottomRow": 139,
   "boxShadow": "none",
-  "defaultImage": "https://assets.appsmith.com/widgets/default.png",
+  "defaultImage": "https://raw.githubusercontent.com/Bm274/Project-LAURENT-prefume/refs/heads/main/Women%20pic.png",
   "dynamicBindingPathList": [
     {
       "key": "borderRadius"
@@ -17,23 +17,23 @@
   "imageShape": "RECTANGLE",
   "isLoading": false,
   "isVisible": true,
-  "key": "xw5qps8nna",
-  "leftColumn": 13,
+  "key": "jkdu83a810",
+  "leftColumn": 6,
   "maxZoomLevel": 1,
-  "mobileBottomRow": 32,
-  "mobileLeftColumn": 3,
-  "mobileRightColumn": 15,
-  "mobileTopRow": 20,
+  "mobileBottomRow": 123,
+  "mobileLeftColumn": 6,
+  "mobileRightColumn": 18,
+  "mobileTopRow": 111,
   "needsErrorInfo": false,
   "objectFit": "cover",
-  "parentColumnSpace": 17.9375,
-  "parentId": "0",
+  "parentColumnSpace": 17.625,
+  "parentId": "pfkaclj6th",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
-  "rightColumn": 25,
-  "topRow": 10,
+  "rightColumn": 19,
+  "topRow": 111,
   "type": "IMAGE_WIDGET",
   "version": 1,
-  "widgetId": "ea6lrxm463",
-  "widgetName": "Image1"
+  "widgetId": "0tei0dnr1e",
+  "widgetName": "Women_pic"
 }

@@ -1,0 +1,39 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 40,
+  "boxShadow": "none",
+  "defaultImage": "https://raw.githubusercontent.com/Bm274/Project-LAURENT-prefume/refs/heads/main/prefume%20ads.jpg",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "cexc48stjb",
+  "leftColumn": 0,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 14,
+  "mobileLeftColumn": 15,
+  "mobileRightColumn": 27,
+  "mobileTopRow": 2,
+  "needsErrorInfo": false,
+  "objectFit": "contain",
+  "parentColumnSpace": 9.1591796875,
+  "parentId": "z8qfhzo796",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 64,
+  "topRow": 0,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "ggptg6tyrn",
+  "widgetName": "AD_Image"
+}

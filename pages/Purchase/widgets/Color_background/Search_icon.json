@@ -1,0 +1,37 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 6,
+  "boxShadow": "none",
+  "buttonColor": "#380c45",
+  "buttonVariant": "TERTIARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "iconName": "search",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "z3uwp7gmyk",
+  "leftColumn": 45,
+  "minWidth": 50,
+  "mobileBottomRow": 26,
+  "mobileLeftColumn": 13,
+  "mobileRightColumn": 17,
+  "mobileTopRow": 22,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 17.625,
+  "parentId": "pfkaclj6th",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 47,
+  "topRow": 2,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "wyxmuurhib",
+  "widgetName": "Search_icon"
+}

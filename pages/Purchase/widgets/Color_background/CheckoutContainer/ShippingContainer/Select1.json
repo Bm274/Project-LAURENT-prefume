@@ -1,0 +1,61 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 58,
+  "boxShadow": "none",
+  "defaultOptionValue": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "d2xu7wm9hk",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "City",
+  "labelTextSize": "1.25rem",
+  "labelWidth": 5,
+  "leftColumn": 1,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 41,
+  "mobileLeftColumn": 2,
+  "mobileRightColumn": 22,
+  "mobileTopRow": 34,
+  "needsErrorInfo": false,
+  "optionLabel": "name",
+  "optionValue": "code",
+  "originalBottomRow": 58,
+  "originalTopRow": 49,
+  "parentColumnSpace": 5.314453125,
+  "parentId": "6wkwxtmscf",
+  "parentRowSpace": 10,
+  "placeholderText": "Select city",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 32,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\n    \"name\": \"Dammam\",\n    \"code\": \"dammam\"\n  },\n  {\n    \"name\": \"Riyadh\",\n    \"code\": \"riyadh\"\n  },\n  {\n    \"name\": \"Khobar\",\n    \"code\": \"khobar\"\n  }\n]",
+  "topRow": 49,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "urm0yd59xp",
+  "widgetName": "Select1"
+}

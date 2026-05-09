@@ -1,0 +1,39 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 9,
+  "boxShadow": "none",
+  "defaultImage": "https://raw.githubusercontent.com/Bm274/Project-LAURENT-prefume/refs/heads/main/prefume%202.png",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "j5762nei72",
+  "leftColumn": 1,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 15,
+  "mobileLeftColumn": 30,
+  "mobileRightColumn": 42,
+  "mobileTopRow": 3,
+  "needsErrorInfo": false,
+  "objectFit": "contain",
+  "parentColumnSpace": 2.0477752685546875,
+  "parentId": "pao23buyd7",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 64,
+  "topRow": 0,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "7c1luxvp9w",
+  "widgetName": "Fresh_Leaves"
+}

@@ -1,0 +1,39 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 70,
+  "boxShadow": "none",
+  "defaultImage": "https://raw.githubusercontent.com/Bm274/Project-LAURENT-prefume/refs/heads/main/about%20us%20another%20pink%20.jpg",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "u0rceo7xbt",
+  "leftColumn": 41,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 61,
+  "mobileLeftColumn": 41,
+  "mobileRightColumn": 53,
+  "mobileTopRow": 49,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "parentColumnSpace": 17.3447265625,
+  "parentId": "pfkaclj6th",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 55,
+  "topRow": 45,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "slfeixn9w2",
+  "widgetName": "about_us_image2"
+}
